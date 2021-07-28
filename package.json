@@ -1,0 +1,23 @@
+{
+  "name": "node-knex",
+  "version": "1.0.0",
+  "description": "Projeto teste knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betosantin/node-knex.git"
+  },
+  "author": "Roberto Santin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betosantin/node-knex/issues"
+  },
+  "homepage": "https://github.com/betosantin/node-knex#readme",
+  "dependencies": {
+    "knex": "^0.95.8",
+    "mysql2": "^2.2.5"
+  }
+}
